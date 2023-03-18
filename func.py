@@ -17,5 +17,5 @@ def miF(a=None,b=None,c=None):
         print("Error corregido:" , TypeError)
     finally:
         print("Fin del programa...Linea FINALLY")
-
+    
  
